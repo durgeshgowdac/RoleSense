@@ -1,4 +1,4 @@
-# AI Resume Screening System
+# RoleSense - AI Resume Screening System
 
 An intelligent resume screening and matching application built with Streamlit, scikit-learn, and natural language processing techniques. This system helps recruiters and hiring managers efficiently process resumes, match them to job descriptions, and identify the most suitable candidates.
 
