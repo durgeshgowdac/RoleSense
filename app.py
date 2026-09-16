@@ -65,7 +65,7 @@ class Config:
     """Application configuration"""
     DEFAULT_FILE_PATHS = {
         "tfidf_vectorizer": "models/tfidf_vectorizer.pkl",
-        "resume_data": "data/processed/resume_data_with_features.parquet",
+        "resume_data": "data/resume_data_with_features.parquet",
         "classifier_model": "models/best_model_random_forest.pkl",
         "label_encoder": "models/label_encoder.pkl"
     }
