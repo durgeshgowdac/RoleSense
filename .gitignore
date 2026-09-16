@@ -43,7 +43,11 @@ resume_data_with_features.parquet
 models/*.pkl
 *.pkl
 
+# Deployment model — tracked using Git LFS
+!models/best_model_random_forest.pkl
+
 # ===== Results =====
+
 results/
 model_comparison_results.csv
 
