@@ -37,15 +37,6 @@ resume_data_with_features.parquet
 !data/
 !data/resume_data_with_features.parquet
 
-# ===== Trained models =====
-
-# Ignore all model artifacts by default
-models/*.pkl
-*.pkl
-
-# Deployment model — tracked using Git LFS
-!models/best_model_random_forest.pkl
-
 # ===== Results =====
 
 results/
